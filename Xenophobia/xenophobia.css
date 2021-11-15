@@ -1,0 +1,95 @@
+body{
+    background-color:black;
+    width:80%;
+    margin:auto;
+    text-align: center;
+    color:white;
+}
+
+#yes{
+    color:white;
+    text-align: center;
+}
+
+#no{
+    color:white;
+    text-align: center;
+}
+#home{
+    color:white;
+    text-align: center;
+}
+
+h1{
+    color:white;
+ text-align: center;
+}
+
+#link{
+    color:white;
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:whitesmoke;
+    text-align: center;
+    
+}
+
+#link:hover{
+    color:red;
+}
+
+#imgyes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+#cryingbaby{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+#hateyou{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+#idk{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+#imgno{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+#scareu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+#smell{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+#imgyes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
